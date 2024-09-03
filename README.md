@@ -34,3 +34,5 @@ Google Docs
 2.	Упростить отслеживание основных показатели деятельности бизнеса
 
 #### Решение поставленных задач: https://drive.google.com/file/d/1SBF5oDn-2Jz1fKzlltrNDeJurVR_nGwF/view?usp=drive_link 
+![Аналитика ВБ](https://github.com/user-attachments/assets/c021dd8c-7543-4b9d-bcb1-82de3f548f58)
+
